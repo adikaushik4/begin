@@ -5,3 +5,10 @@ welcome to adi's repository
 Tea
 pasta
 chicken
+
+pizza
+beans
+
+
+
+Thank You ;)
